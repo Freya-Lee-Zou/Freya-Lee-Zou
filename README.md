@@ -10,8 +10,8 @@
         <a href=""><span>Red Notes</span></a> |
         <a href="https://www.youtube.com/@SuzyZou1998"><span>YouTube</span></a> |
     </p>
-    <p> Full-stack engineer, Individual open source contributor</p>
-    <p> Open-Source RDS Alternative, Battery-Included PostgreSQL Distribution</p>
+    <p> Graduate Student, Software Develop Engineer, Individual open source contributor</p>
+    <p>Previous Internship @ AMAZON </p>
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=Freya-Lee-Zou&count_private=true&theme=shadow_blue&show_icons=true&rank_icon=github" height="165" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freya-Lee-Zou&hide=css,html&theme=shadow_blue" height="165" />
