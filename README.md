@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div align="center">
     <h3>Hi 👋, I'm <a>Freya Zou </a></h3>
     <br>
@@ -10,14 +10,13 @@
     </p> -->
     <p align="center">
         <a href=""><span>Profile</span></a> |
+        <a href="https://www.linkedin.com/in/freya-zou-068615252/"><span>LinkedIn</span></a> |
         <a href=""><span>Bio</span></a> |
-        <a href=""><span>Posts</span></a> |
+        <a href=""><span>X</span></a> |
         <a href=""><span>WeChat</span></a> |
-        <a href=""><span>PG Notes</span></a> |
-        <a href=""><span>DDIA</span></a> |
-        <a href=""><span>PG Internal</span></a> |
-        <a href=""><span>Capslock</span></a> |
-        <a href=""><span>Pigsty</span></a> |
+        <a href=""><span>Red Notes</span></a> |
+        <a href=""><span>YouTube</span></a> |
+
         <a href=""><span>Blog</span></a>
     </p>
     <p>💻 SQL expert, Full-stack engineer, Individual open source contributor, Founder</p>
