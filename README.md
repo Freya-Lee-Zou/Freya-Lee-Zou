@@ -5,12 +5,10 @@
     <p align="center">
         <a href=""><span>Profile</span></a> |
         <a href=""><span>LinkedIn</span></a> |
-        <a href=""><span>Bio</span></a> |
-        <a href=""><span>X</span></a> |
+        <a href=""><span>Resume</span></a> |
         <a href=""><span>WeChat</span></a> |
         <a href=""><span>Red Notes</span></a> |
         <a href=""><span>YouTube</span></a> |
-        <a href=""><span>Blog</span></a>
     </p>
     <p> SQL expert, Full-stack engineer, Individual open source contributor</p>
     <p> Open-Source RDS Alternative, Battery-Included PostgreSQL Distribution</p>
