@@ -1,6 +1,6 @@
 
 <div align="center">
-    <h3>Hi 👋, I'm <a>Freya Zou </a></h3>
+    <h2>Hi 👋, I'm <a>Freya Zou </a></h2>
     <br>
     <p align="center">
         <a href=""><span>Profile</span></a> |
