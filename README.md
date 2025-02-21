@@ -10,7 +10,7 @@
         <a href=""><span>Red Notes</span></a> |
         <a href="https://www.youtube.com/@SuzyZou1998"><span>YouTube</span></a> |
     </p>
-    <p> Graduate Student, Software Develop Engineer, Individual open source contributor</p>
+    <p>👩‍💻Software Engineer | AI & Robotics Enthusiast 🤖 | Ex-Amazon Intern</p>
     <p>Previous Internship @ AMAZON </p>
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=Freya-Lee-Zou&count_private=true&theme=shadow_blue&show_icons=true&rank_icon=github" height="165" />
