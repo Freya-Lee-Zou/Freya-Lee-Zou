@@ -6,8 +6,7 @@
         <a href=""><span>Profile</span></a> |
         <a href="https://www.linkedin.com/in/freya-zou-068615252/"><span>LinkedIn</span></a> |
         <a href=""><span>Resume</span></a> |
-        <a href=""><span>WeChat</span></a> |
-        <a href=""><span>Red Notes</span></a> |
+        <a href=""><span>Discord</span></a> |
         <a href="https://www.youtube.com/@SuzyZou1998"><span>YouTube</span></a> |
     </p>
     <p>Software Engineer 🔹 AI & Robotics Enthusiast 🔹 Ex-Amazon Intern</p>
