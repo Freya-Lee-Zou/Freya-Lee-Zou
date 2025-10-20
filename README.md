@@ -3,7 +3,7 @@
     <h2>Hi 👋, I'm <a>Freya Zou </a></h2>
     <br>
     <p align="center">
-        <a href="freyazou.com"><span>Profile</span></a> |
+        <a href="[freyazou.com](https://www.freyazou.com/)"><span>Profile</span></a> |
         <a href="https://www.linkedin.com/in/freya-zou-068615252/"><span>LinkedIn</span></a> |
         <a href=""><span>Resume</span></a> |
         <a href="https://www.youtube.com/@SuzyZou1998"><span>YouTube</span></a> |
